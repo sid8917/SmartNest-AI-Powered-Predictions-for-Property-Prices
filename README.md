@@ -27,14 +27,14 @@ The steps followed for the project were:
 * Outlier Removal Using Standard Deviation and Mean
 <h2>Outlier Removal in Rajaji Nagar</h2>
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/102037657/232305587-675c1739-3792-4f78-a67c-0bdd079876b5.png" width="500"/>
-  <img src="https://user-images.githubusercontent.com/102037657/232305604-f6eba713-4370-4899-8855-64f19f0e417d.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/102037657/232305587-675c1739-3792-4f78-a67c-0bdd079876b5.png" width="400"/>
+  <img src="https://user-images.githubusercontent.com/102037657/232305604-f6eba713-4370-4899-8855-64f19f0e417d.png" width="400"/>
 </p>
 
 <h2>Outlier Removal in Kanakpura Road</h2>
 <p float="left">
-<img src="https://user-images.githubusercontent.com/102037657/232305605-ee4155fc-bed5-4277-981f-7d7d30113652.png" width="500"/>
-<img src="https://user-images.githubusercontent.com/102037657/232305629-62763377-ba2e-4e2b-863a-44f2e4a4fe13.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/102037657/232305605-ee4155fc-bed5-4277-981f-7d7d30113652.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/102037657/232305629-62763377-ba2e-4e2b-863a-44f2e4a4fe13.png" width="400"/>
 </p>
 
 * Used One Hot Encoding For Location
